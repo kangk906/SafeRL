@@ -13,7 +13,12 @@ DDPG
 
 TD3
 
+<img src="gif/TD3_SafetyHopperVelocity_v1.gif" width="150"/>
+
 TD3_LAG
+
+<img src="gif/TD3_LAG_SafetyHopperVelocity_v1.gif" width="150"/>
 
 TD3_PID
 
+<img src="gif/TD3_PID_SafetyHopperVelocity_v1.gif" width="150"/>
