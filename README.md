@@ -13,18 +13,6 @@ The **ball** represents the system's safety status:
 ## SafetyHopperVelocity-v1
 
 ### Demo Video
-DDPG
-
-<img src="gif/DDPG_SafetyHopperVelocity_v1.gif" width="150"/>
-
-TD3
-
-<img src="gif/TD3_SafetyHopperVelocity_v1.gif" width="150"/>
-
-TD3_LAG
-
-<img src="gif/TD3_LAG_SafetyHopperVelocity_v1.gif" width="150"/>
-
-TD3_PID
-
-<img src="gif/TD3_PID_SafetyHopperVelocity_v1.gif" width="150"/>
+| DDPG | TD3 | TD3_LAG | TD3_PID | Ours |
+|------|-----|---------|---------|------|
+| <img src="gif/DDPG_SafetyHopperVelocity_v1.gif" width="150"/> | <img src="gif/TD3_SafetyHopperVelocity_v1.gif" width="150"/> | <img src="gif/TD3_LAG_SafetyHopperVelocity_v1.gif" width="150"/> | <img src="gif/TD3_PID_SafetyHopperVelocity_v1.gif" width="150"/> | <img src="gif/Ours_SafetyHopperVelocity_v1.gif" width="150"/> |
