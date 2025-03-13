@@ -16,3 +16,6 @@ The **ball** represents the system's safety status:
 | DDPG | TD3 | TD3_LAG | TD3_PID | Ours |
 |------|-----|---------|---------|------|
 | <img src="gif/DDPG_SafetyHopperVelocity_v1.gif" width="150"/> | <img src="gif/TD3_SafetyHopperVelocity_v1.gif" width="150"/> | <img src="gif/TD3_LAG_SafetyHopperVelocity_v1.gif" width="150"/> | <img src="gif/TD3_PID_SafetyHopperVelocity_v1.gif" width="150"/> | <img src="gif/Ours_SafetyHopperVelocity_v1.gif" width="150"/> |
+|------|-----|---------|---------|------|
+| 1462.56 ± 591.14 | 3404.41 ± 82.57 | 928.79 ± 389.48 | 1225.97 ± 224.71 | 1216.583 ± 118.336 |
+| 429.17 ± 220.05 | 973.80 ± 4.92 | 40.67 ±30.99 | 46.87 ±65.28 | 1.340 ± 3.803 |
