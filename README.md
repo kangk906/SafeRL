@@ -9,7 +9,7 @@ Baseline models were trained based on the implementation of safe reinforcement l
 ### Demo Video
 DDPG
 
-![DDPG_SafetyHopperVelocity_v1](gif/DDPG_SafetyHopperVelocity_v1.gif)
+<img src="gif/DDPG_SafetyHopperVelocity_v1.gif" width="500"/>
 
 TD3
 
