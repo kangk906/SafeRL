@@ -1,4 +1,4 @@
-# SafeRL
+# Off-Policy SafeRL
 This project is a demonstration page for the proposed explicit safe reinforcement learning methods. Code might be available in future.
 
 
