@@ -4,7 +4,7 @@ Explicit safe reinforcement learning
 
 # Safety-Gymnasium Benchmark 
 Baseline models were trained based on the implementation of safe reinforcement learning algorithms in the [Omnisafe](https://www.omnisafe.ai/en/latest/) frameowrk.
-It should be noted that all data for all baseline models is procured under the constraint of ```cost_limit=25.00```. 
+It should be noted that all data for all baseline models is procured under the constraint of ```cost_limit=25.00```. The proposed method does not include ```cost_limit``` as it try to avoid any constraint violation.
 
 ### 🏀 Safety Status Indicator  
 The **ball** represents the system's safety status:  
