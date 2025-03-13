@@ -1,5 +1,5 @@
 # SafeRL
-Explicit safe reinforcement learning
+This project is a demonstration page for the proposed explicit safe reinforcement learning methods. Code might be available in future.
 
 
 # Safety-Gymnasium Benchmark 
