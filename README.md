@@ -27,3 +27,20 @@ The **ball** represents the system's safety status:
 | DDPG | TD3 | TD3_LAG | TD3_PID | Ours |
 |------|-----|---------|---------|------|
 | 429.17 ± 220.05 | 973.80 ± 4.92 | 40.67 ± 30.99 | 46.87 ± 65.28 | 1.340 ± 3.803 |
+
+
+## SafetyAntVelocity-v1
+
+### Demo Video
+| DDPG | TD3 | TD3_LAG | TD3_PID | Ours |
+|------|-----|---------|---------|------|
+
+#### Reward  
+| DDPG | TD3 | TD3_LAG | TD3_PID | Ours |
+|------|-----|---------|---------|------|
+|  |  |  |  | 2142.491 ± 24.636 |
+
+#### Cost  
+| DDPG | TD3 | TD3_LAG | TD3_PID | Ours |
+|------|-----|---------|---------|------|
+|  |  |  |  | 8.300 ± 6.528 |
