@@ -34,7 +34,7 @@ The **ball** represents the system's safety status:
 ### Demo Video
 | DDPG | TD3 | TD3_LAG | TD3_PID | Ours |
 |------|-----|---------|---------|------|
-
+| <img src="gif/DDPG_SafetyHopperVelocity_v1.gif" width="150"/> | <img src="gif/TD3_SafetyHopperVelocity_v1.gif" width="150"/> | <img src="gif/TD3_LAG_SafetyHopperVelocity_v1.gif" width="150"/> | <img src="gif/TD3_PID_SafetyHopperVelocity_v1.gif" width="150"/> | <img src="gif/Ours_SafetyAntVelocity_v1.gif" width="150"/> |
 #### Reward  
 | DDPG | TD3 | TD3_LAG | TD3_PID | Ours |
 |------|-----|---------|---------|------|
