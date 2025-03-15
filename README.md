@@ -1,6 +1,7 @@
 # Off-Policy SafeRL
 This project is a demonstration page for the proposed explicit off-policy safe reinforcement learning methods. Code might be available in future.
 
+---
 
 # Safety-Gymnasium Benchmark 
 Baseline models were trained based on the implementation of safe reinforcement learning algorithms in the [Omnisafe](https://www.omnisafe.ai/en/latest/) frameowrk.
@@ -38,9 +39,41 @@ The **ball** represents the system's safety status:
 #### Reward  
 | DDPG | TD3 | TD3_LAG | TD3_PID | Ours |
 |------|-----|---------|---------|------|
-|  |  |  |  | 2142.491 ± 24.636 |
+|  |  |  |  | - |
 
 #### Cost  
 | DDPG | TD3 | TD3_LAG | TD3_PID | Ours |
 |------|-----|---------|---------|------|
-|  |  |  |  | 8.300 ± 6.528 |
+|  |  |  |  | - |
+
+
+## SafetySwimmerVelocity-v1
+
+### Demo Video
+| DDPG | TD3 | TD3_LAG | TD3_PID | Ours |
+|------|-----|---------|---------|------|
+| <img src="gif/DDPG_SafetyHopperVelocity_v1.gif" width="150"/> | <img src="gif/TD3_SafetyHopperVelocity_v1.gif" width="150"/> | <img src="gif/TD3_LAG_SafetyHopperVelocity_v1.gif" width="150"/> | <img src="gif/TD3_PID_SafetyHopperVelocity_v1.gif" width="150"/> | <img src="gif/Ours_SafetySwimmerVelocity_v1.gif" width="150"/> |
+#### Reward  
+| DDPG | TD3 | TD3_LAG | TD3_PID | Ours |
+|------|-----|---------|---------|------|
+|  |  |  |  | - |
+
+#### Cost  
+| DDPG | TD3 | TD3_LAG | TD3_PID | Ours |
+|------|-----|---------|---------|------|
+|  |  |  |  | - |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
